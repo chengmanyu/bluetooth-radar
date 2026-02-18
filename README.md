@@ -16,11 +16,14 @@ An enhanced Bluetooth device scanner and radar visualization tool using Python.
 
 ```text
 Python 3.8+
-pip install asyncio matplotlib bleak requests
-# For AI version also need:
-# Ollama running locally with llama3.1:8b model (or Any Large Language Model)
-# tkinter (usually comes with Python)
 ```
+``` bash
+pip install asyncio matplotlib bleak requests
+```
+### For AI version also need:
+- Ollama running locally with llama3.1:8b model (or Any Large Language Model)
+- tkinter (usually comes with Python)
+
 
 ## Usage
 
