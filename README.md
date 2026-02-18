@@ -18,7 +18,7 @@ An enhanced Bluetooth device scanner and radar visualization tool using Python.
 Python 3.8+
 pip install asyncio matplotlib bleak requests
 # For AI version also need:
-# Ollama running locally with llama3.1:8b model
+# Ollama running locally with llama3.1:8b model (or Any Large Language Model)
 # tkinter (usually comes with Python)
 ```
 
@@ -27,7 +27,7 @@ pip install asyncio matplotlib bleak requests
 1. Make sure Bluetooth is enabled on your computer
 2. Run the desired version:
 
-```bash
+``` bash
 python bluetooth_radar_AI_version.py
 # or
 python bluetooth_radar_No_AI.py
