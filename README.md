@@ -40,7 +40,7 @@ python bluetooth_radar_No_AI.py
 Click Pause button → AI version will send current devices to local LLM and show analysis
 
 ## Screenshots
-(之後你可以把執行畫面截圖上傳到仓库，再用 screenshot 加入)
+![Screenshot of the execution screen](https://Bluetooth_Radar.png)
 
 ## Notes
 - Distance is estimated using free-space path loss model (very approximate!)
